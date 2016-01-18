@@ -12,6 +12,7 @@
     <module>maprdb-utility</module>
     <module>simple-java-app</module>
     <module>simple-web-app</module>
+    <module>simple-kafka-0.8</module>
   </modules>
 
 

@@ -27,7 +27,6 @@
       <groupId>org.apache.hbase</groupId>
       <artifactId>hbase-client</artifactId>
       <version>0.98.9-mapr-1503-m7-4.1.0</version>
-      <scope>provided</scope>
     </dependency>
 
     <dependency>
