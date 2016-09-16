@@ -1,0 +1,17 @@
+{
+  "_id" : "jdoe",
+  "first_name" : "John",
+  "last_name" : "Doe",
+  "age" : 40,
+  "emails" : [
+    {
+      "type" : "work",
+      "email" : "jdoe@mapr.com"
+    }
+  ,
+    {
+      "type" : "home",
+      "email" : "jdoe@mac.com"
+    }
+  ]
+}
